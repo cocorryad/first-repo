@@ -1,5 +1,5 @@
 var scores = [0,0];
-
+//coucou
 var playerActivity= 0;
 var roundScore = 0 ;    
 
